@@ -6,4 +6,3 @@
   from = "/api/*"
   status = 200
   to = "/.netlify/functions/api/:splat"
-npm install netlify-cli -g
